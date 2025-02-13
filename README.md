@@ -12,7 +12,7 @@
     <p align="center"> 
   <italic>${\color{#025070}➤}$⠀art by pastrypaladin
  <p align="center"> 
- <img width="600" src="https://64.media.tumblr.com/b4fa2bdb537257afc4d63675c5107936/86fa93a78d13e716-c5/s540x810/e7d1f5da2a6d84b64343d5dc1983098a21066602.pnj"
+ <img width="600" src="https://i.imgur.com/iRwcG4p.gif"
  </p>
  
 
@@ -36,7 +36,7 @@
 
   </p> 
    <p align="center"
-       <br> </a></sub>  <img width="80" src='https://i.imgur.com/nqeu4Ia.png'> 
+       <br> </a></sub>  <img width="80" src='https://static.wikia.nocookie.net/fortnite/images/b/b3/Deadeye_%28v28.30%29_-_Outfit_-_LEGO_Fortnite.png/revision/latest?cb=20240223025351'> 
     
  <p align="center"> 
  <img width="400" src="https://64.media.tumblr.com/b4fa2bdb537257afc4d63675c5107936/86fa93a78d13e716-c5/s540x810/e7d1f5da2a6d84b64343d5dc1983098a21066602.pnj"
@@ -136,12 +136,13 @@
 </p>
   <img width="80" src="https://64.media.tumblr.com/6c20a47dfb58d7693bb17179a3455f3f/3e9963be23e9a5c6-08/s100x200/e71cde9b206f0c0c35502f9d796c6eb6cf95ad56.pnj"
 </p>
- <img width="80" src=""
+ <img width="80" src="https://64.media.tumblr.com/20def6f0395884190de77d128e4b51fe/6eac0cbc1027da31-82/s100x200/aa4775365f1a330c74dba7bef296ed0049545005.pnj"
 </p>
- <img width="80" src=""
+ <img width="80" src="https://64.media.tumblr.com/9574f06576f171575d21ecb9b6d83599/aea03be4610b71fb-67/s100x200/925d642136d021efb55da19f59b2803635024cb7.pnj"
 </p>
 
     
  <p align="center"> 
  <img width="400" src="https://64.media.tumblr.com/b4fa2bdb537257afc4d63675c5107936/86fa93a78d13e716-c5/s540x810/e7d1f5da2a6d84b64343d5dc1983098a21066602.pnj"
  </p>
+
