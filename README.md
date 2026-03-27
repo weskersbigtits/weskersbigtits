@@ -3,14 +3,14 @@
 <p align="center">
 <h4 align="center"
  
-![](https://komarev.com/ghpvc/?username=weskersbigtits&label=𐙚+profile+views+++&color=025070&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=weskersbigtits&label=𐙚+homies+++&color=025070&abbreviated=true)
 
  </h4>
 <p align="center">
- <img width="900" src="https://i.imgur.com/3JHtwGU.jpeg"
+ <img width="900" src="https://i.imgur.com/t7O1tnp.jpeg"
    </p>
     <p align="center"> 
-  <italic>${\color{#025070}➤}$⠀art by pastrypaladin
+  <italic>${\color{#025070}➤}$⠀art by roomtempwaffle
  <p align="center"> 
  <img width="600" src="https://i.imgur.com/iRwcG4p.gif"
  </p>
